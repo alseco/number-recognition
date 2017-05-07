@@ -1,3 +1,10 @@
+/*
+This program teaches the computer how to 
+classify numbers by extracting features of the number such as area and perimeter
+
+by: Aizaya L. Seco and Alyssa De Guzman
+date: 10/07/2016
+*/
 #include <opencv2/core/utility.hpp>
 #include "opencv2/imgproc/imgproc.hpp"
 #include "opencv2/imgcodecs.hpp"
