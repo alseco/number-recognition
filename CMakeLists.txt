@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( exer5 )
+find_package( OpenCV REQUIRED )
+add_executable( exer5 exer5.cpp )
+target_link_libraries( exer5 ${OpenCV_LIBS} )
